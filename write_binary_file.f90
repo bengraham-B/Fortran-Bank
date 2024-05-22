@@ -1,7 +1,7 @@
 program write_binary_file
 
 implicit none
-character(len=50) :: name = "Ben"
+character(len=50) :: name = "Samb Tomb"
     integer :: age = 23
     real :: balance = 52040.78
     integer :: unit_number
